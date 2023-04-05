@@ -1,5 +1,7 @@
 # Analysis Of Booking Cancellation In Hotels
 
+![image](https://ktgy.com/wp-content/uploads/2016/11/Kapilina-Clubhouse-7.jpg)
+
 ## Problem Statement
 *In recent years, many city hotels and resort hotels have seen high cancellation rates. This is affecting the annual revenue of the hotels. The primary goal of both hotels is to lowering the cancellation rates in order to increase their efficiency to generate revenue.*
 
